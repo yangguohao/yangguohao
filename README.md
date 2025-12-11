@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![GitHub Stats](https://github-stats-ashy-pi.vercel.app/api?username=yangguohao)
+
+
 <!--
 **yangguohao/yangguohao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
