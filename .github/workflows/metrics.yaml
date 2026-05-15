@@ -11,7 +11,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.METRIC_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: yangguohao
           config_timezone: Asia/Shanghai
           # 欢迎按 Metrics 文档添加更多插件，比如:
