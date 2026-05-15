@@ -31,6 +31,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yangguohao&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
+### 📊 My GitHub Metrics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yangguohao/yangguohao/main/metrics.svg" alt="GitHub Metrics" width="100%"/>
+</p>
 ---
 
 ### 🌐 Connect With Me
