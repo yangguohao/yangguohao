@@ -1,6 +1,10 @@
 <h2 align="center">Hi there, I'm Guohao Yang 👋</h2>
 
 <p align="center">
+  <a href="https://githubroast.dev/u/yangguohao"><img src="https://githubroast.dev/api/card/yangguohao?theme=dark" alt="GitHub Roast" width="600" /></a>
+</p>
+
+<p align="center">
   <b>Welcome to my GitHub profile!</b> <br/>
   👨‍💻 Software Engineer <br/>
   <i>Coding is my passion, and I'm always eager to learn and grow.</i>
